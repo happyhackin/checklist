@@ -50,12 +50,13 @@ going from dreaming up, queuing, and then implament happy hacking projects
 |_ src/ -- repo (submodule)
 |___ .git && .gitignore
 |___ README.md -- repo code docs
+|___ CHANGELOG.md -- repo changelog 
+|___ LICENCE.md 
 |___ OTHER
-|_ blog/  (repo)
-|_ .git && .gitignore
+|_ blog/ 
 |___ README.md -- blogpost content
 |___ metadata.json -- blogpost metadata
-|___ assets/ -- images, audio, and video (to be hosted on assets.slugbyte.com)
+|___ asset/ -- images, audio, and video (to be hosted on assets.slugbyte.com)
 |___ raw/ -- application data (.psd, .sketch, ect)
 |_ video/
 |___ name.mp4 -- final video for youtube
