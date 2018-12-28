@@ -47,10 +47,12 @@ going from dreaming up, queuing, and then implament happy hacking projects
 |_ README.md -- PROJECT CHECKLIST
 |_ LICENCE.md 
 |_ CHANGELOG.md 
+|_ CODE_OF_CONDUCT.md
 |_ src/ -- repo (submodule)
 |___ .git && .gitignore
 |___ README.md -- repo code docs
 |___ CHANGELOG.md -- repo changelog 
+|___ CODE_OF_CONDUCT.md
 |___ LICENCE.md 
 |___ OTHER
 |_ blog/ 
